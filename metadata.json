@@ -1,0 +1,6 @@
+{
+  "name": "Portage USE Manager",
+  "description": "Manage Gentoo Portage global make.conf USE flags, USE_EXPAND variables, per-package package.use rules, and REQUIRED_USE conflicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
